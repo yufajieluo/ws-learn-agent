@@ -6,3 +6,4 @@ venv/
 
 # Customer files
 week1/day2_zelda_bot.py
+*.sqlite
