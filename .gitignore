@@ -3,7 +3,9 @@
 
 # Python
 venv/
+__pycache__/
 
 # Customer files
 week1/day2_zelda_bot.py
+week6/day24_langserver_adult.py
 *.sqlite
