@@ -1,11 +1,15 @@
 # Mac OS
 .DS_Store
 
+# env
+.env
+
 # Python
 venv/
 __pycache__/
 
 # Customer files
+*.sqlite
 week1/day2_zelda_bot.py
 week6/day24_langserver_adult.py
-*.sqlite
+day30_chroma_db_data
