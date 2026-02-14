@@ -1,0 +1,10 @@
+[
+    {
+        "question": "Jarvis 的开发者是谁？",
+        "ground_truth": "Wcy 大佬"
+    },
+    {
+        "question": "Jarvis 的 IP 是多少？",
+        "ground_truth": "192.168.0.7"
+    }
+]
