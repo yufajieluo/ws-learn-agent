@@ -6,6 +6,7 @@
 
 # Python
 venv/
+new-venv/
 __pycache__/
 
 # Customer files
@@ -13,3 +14,5 @@ __pycache__/
 week1/day2_zelda_bot.py
 week6/day24_langserver_adult.py
 day30_chroma_db_data
+chroma_db
+chat_history.db
